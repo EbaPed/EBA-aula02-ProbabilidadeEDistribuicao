@@ -27,7 +27,7 @@ Este repositório contém os arquivos e códigos necessários para a aula de Est
 No terminal, clone este repositório:
 
 ```bash
-git clone https://github.com/EbaPed/EBA-aula03-ConceitosImportantesTestHipotese.git
+git clone https://github.com/EbaPed/EBA-aula02-ProbabilidadeEDistribuicao.git
 cd EBA_aula01_EstatisticaDescritiva
 ```
 
