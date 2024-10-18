@@ -28,7 +28,7 @@ No terminal, clone este repositório:
 
 ```bash
 git clone https://github.com/EbaPed/EBA-aula02-ProbabilidadeEDistribuicao.git
-cd EBA_aula01_EstatisticaDescritiva
+cd EBA-aula01-EstatisticaDescritiva
 ```
 
 2. **Configurar a versão do Python com Pyenv**
